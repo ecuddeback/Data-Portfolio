@@ -28,7 +28,7 @@ The following tools and technologies were used across various projects in this p
 
 ## Projects
 Below is a list of projects included in this portfolio. Each project is unique and highlights a different aspect of data analytics:
-### 1. [Cleaning Real-World Data with SQL](https://medium.com/@ecuddeback/cleaning-real-world-data-with-mysql-a-personal-project-c72bae40f0d5)
+### 1. Cleaning Real-World Data with SQL
 - **Description**: This project focuses on cleaning a dataset provided from Kaggle using SQL. The goal is to transform raw data into a structured, accurate, and analysis-ready format by removing inconsistencies, handling null values, standardizing data, and eliminating duplicates. The cleaned dataset can be used for meaningful visualizations and insights.
 - **Skills Demonstrated**: SQL Querying, Data Cleaning Techniques, Database Management, Common Table Expressions, SQL Optimization, Documentation & Collaboration
 - **Key Insights**: Importance of Data Staging, Effective Duplicate Handling, Standardization Matters, Strategic Column Removal
@@ -47,7 +47,7 @@ To download the entire repository to your computer:
 
 ### 2. **Explore the Files**
 Each project is in its folder. Inside each folder, you’ll find:
-- **Code Files**: `.ipynb` (Jupyter Notebooks), `.py` (Python scripts)
+- **Code Files**: `.ipynb` (Jupyter Notebooks), `.py` (Python scripts), `.sql` (SQL scripts)
 - **Datasets**: `.csv`, `.xlsx`, `.json`
 - **Visualizations**: Images like `.png`, `.jpg`
 Click on any file to view it directly on GitHub.
