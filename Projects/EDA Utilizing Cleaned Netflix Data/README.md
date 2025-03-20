@@ -22,8 +22,8 @@ Check out the complete project breakdown and findings on **[Medium](https://medi
 - `EDA_SQL_Code.sql`: Contains all SQL queries used for data extraction and aggregation during the EDA phase.
 - `EDA_Visuals.xlsx`: Excel file with all visualizations generated from the extracted data.
 - `README.md` – This documentation.
-  
-##✅ Note
+
+  ✅ Note
 Since the data cleaning phase has been documented in a separate project, only the SQL code for the EDA is included here. For details on the cleaning process, refer to my previous project.
 
 ## 🙌 Get in Touch
